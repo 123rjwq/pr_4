@@ -1,0 +1,14 @@
+C:\Users\cakyr\OneDrive\Рабочий стол\Граблевский итог с 3 по 9 + итог\work_4\pr_4_3\pr_4_3\bin\Debug\net8.0\pr_4_3.exe
+C:\Users\cakyr\OneDrive\Рабочий стол\Граблевский итог с 3 по 9 + итог\work_4\pr_4_3\pr_4_3\bin\Debug\net8.0\pr_4_3.deps.json
+C:\Users\cakyr\OneDrive\Рабочий стол\Граблевский итог с 3 по 9 + итог\work_4\pr_4_3\pr_4_3\bin\Debug\net8.0\pr_4_3.runtimeconfig.json
+C:\Users\cakyr\OneDrive\Рабочий стол\Граблевский итог с 3 по 9 + итог\work_4\pr_4_3\pr_4_3\bin\Debug\net8.0\pr_4_3.dll
+C:\Users\cakyr\OneDrive\Рабочий стол\Граблевский итог с 3 по 9 + итог\work_4\pr_4_3\pr_4_3\bin\Debug\net8.0\pr_4_3.pdb
+C:\Users\cakyr\OneDrive\Рабочий стол\Граблевский итог с 3 по 9 + итог\work_4\pr_4_3\pr_4_3\obj\Debug\net8.0\pr_4_3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cakyr\OneDrive\Рабочий стол\Граблевский итог с 3 по 9 + итог\work_4\pr_4_3\pr_4_3\obj\Debug\net8.0\pr_4_3.AssemblyInfoInputs.cache
+C:\Users\cakyr\OneDrive\Рабочий стол\Граблевский итог с 3 по 9 + итог\work_4\pr_4_3\pr_4_3\obj\Debug\net8.0\pr_4_3.AssemblyInfo.cs
+C:\Users\cakyr\OneDrive\Рабочий стол\Граблевский итог с 3 по 9 + итог\work_4\pr_4_3\pr_4_3\obj\Debug\net8.0\pr_4_3.csproj.CoreCompileInputs.cache
+C:\Users\cakyr\OneDrive\Рабочий стол\Граблевский итог с 3 по 9 + итог\work_4\pr_4_3\pr_4_3\obj\Debug\net8.0\pr_4_3.dll
+C:\Users\cakyr\OneDrive\Рабочий стол\Граблевский итог с 3 по 9 + итог\work_4\pr_4_3\pr_4_3\obj\Debug\net8.0\refint\pr_4_3.dll
+C:\Users\cakyr\OneDrive\Рабочий стол\Граблевский итог с 3 по 9 + итог\work_4\pr_4_3\pr_4_3\obj\Debug\net8.0\pr_4_3.pdb
+C:\Users\cakyr\OneDrive\Рабочий стол\Граблевский итог с 3 по 9 + итог\work_4\pr_4_3\pr_4_3\obj\Debug\net8.0\pr_4_3.genruntimeconfig.cache
+C:\Users\cakyr\OneDrive\Рабочий стол\Граблевский итог с 3 по 9 + итог\work_4\pr_4_3\pr_4_3\obj\Debug\net8.0\ref\pr_4_3.dll

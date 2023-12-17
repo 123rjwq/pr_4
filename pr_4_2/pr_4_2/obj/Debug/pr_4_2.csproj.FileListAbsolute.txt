@@ -1,0 +1,7 @@
+C:\Users\cakyr\OneDrive\Рабочий стол\Граблевский итог с 3 по 9 + итог\work_4\pr_4_2\pr_4_2\bin\Debug\pr_4_2.exe.config
+C:\Users\cakyr\OneDrive\Рабочий стол\Граблевский итог с 3 по 9 + итог\work_4\pr_4_2\pr_4_2\bin\Debug\pr_4_2.exe
+C:\Users\cakyr\OneDrive\Рабочий стол\Граблевский итог с 3 по 9 + итог\work_4\pr_4_2\pr_4_2\bin\Debug\pr_4_2.pdb
+C:\Users\cakyr\OneDrive\Рабочий стол\Граблевский итог с 3 по 9 + итог\work_4\pr_4_2\pr_4_2\obj\Debug\pr_4_2.csproj.AssemblyReference.cache
+C:\Users\cakyr\OneDrive\Рабочий стол\Граблевский итог с 3 по 9 + итог\work_4\pr_4_2\pr_4_2\obj\Debug\pr_4_2.csproj.CoreCompileInputs.cache
+C:\Users\cakyr\OneDrive\Рабочий стол\Граблевский итог с 3 по 9 + итог\work_4\pr_4_2\pr_4_2\obj\Debug\pr_4_2.exe
+C:\Users\cakyr\OneDrive\Рабочий стол\Граблевский итог с 3 по 9 + итог\work_4\pr_4_2\pr_4_2\obj\Debug\pr_4_2.pdb
